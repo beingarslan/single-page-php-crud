@@ -14,7 +14,6 @@
 
 <body>
 
-    <?php include 'includes/header.php'; ?>
     <div class="container mt-2">
         <?php
         include 'connect.php';
